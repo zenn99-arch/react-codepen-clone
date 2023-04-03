@@ -1,0 +1,5 @@
+export {default as Home} from './Home' 
+export {default as Header} from './Header' 
+export {default as Code} from './Code' 
+export {default as Editior} from './Editior' 
+export {default as Product} from './Product' 
